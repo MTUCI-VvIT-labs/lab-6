@@ -22,4 +22,4 @@ npm run build
 ## Примечание
 + Для сборки программы необходимо устаноить папку `node_modules` с помощью команды `npm install`
 + Для сборки программы из исходного кода необходимы установленные nodejs и npm последних версий.
-+ Готовую программу можно скачать [здесь](https://drive.google.com/drive/u/0/folders/1RsZ0G5wgiwSxQctujt23oL3xkUoCgPSU)
++ Готовую программу можно скачать [здесь](https://drive.google.com/drive/folders/1_vue2Z-xKL_I6eLhHqzLWUCu5jNb62fH?usp=sharing)
